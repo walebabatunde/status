@@ -3,7 +3,7 @@ repo: status
 user-agent: walebabatunde
 
 sites:
-  - name: FrontDeskOS App
+  - name: FrontDeskOS
     url: https://app.frontdeskos.co
 
 assignees:
