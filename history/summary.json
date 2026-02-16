@@ -1,9 +1,9 @@
 [
   {
-    "name": "FrontDeskOS App",
+    "name": "FrontDeskOS",
     "url": "https://app.frontdeskos.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.frontdeskos.co.ico",
-    "slug": "front-desk-os-app",
+    "slug": "front-desk-os",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
