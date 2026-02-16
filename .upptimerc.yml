@@ -1,0 +1,25 @@
+owner: walebabatunde
+repo: status
+user-agent: walebabatunde
+
+sites:
+  - name: FrontDeskOS App
+    url: https://app.frontdeskos.co
+
+assignees:
+  - walebabatunde
+
+status-website:
+  name: FrontDeskOS Status
+  cname: status.frontdeskos.co
+  theme: light
+  introTitle: "**FrontDeskOS** System Status"
+  introMessage: "Real-time monitoring of FrontDeskOS services. Updated every 5 minutes."
+  navbar:
+    - title: Status
+      href: /
+    - title: FrontDeskOS
+      href: https://frontdeskos.co
+
+commitMessages:
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
